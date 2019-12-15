@@ -1,2 +1,7 @@
-# Situs-pencarian-materi-islami
-Live Demo https://puldapii.com
+# Prayer Time according city
+JSON API
+
+#Preview
+<img src="Puldapii prayer time.png">
+
+
